@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "type": "pdf",
+      "name": "Employee Handbook",
+      "slug": "employee-handbook",
+      "size": 1.2,
+      "added": "2017-01-06"
+    },
+    {
+      "type": "pdf",
+      "name": "Public Holiday policy",
+      "slug": "public-holiday-policy",
+      "size": 2.1,
+      "added": "2016-12-06"
+    },
+    {
+      "type": "folder",
+      "name": "Expenses",
+      "slug": "expenses",
+      "size": 7.3,
+      "added": "2017-05-02",
+      "files": [
+        {
+          "type": "doc",
+          "name": "Expenses claim form",
+          "slug": "expenses-claim-form",
+          "size": 4.3,
+          "added": "2017-05-02"
+        },
+        {
+          "type": "doc",
+          "name": "Fuel allowances",
+          "slug": "fuel-allowances",
+          "size": 3.0,
+          "added": "2017-05-03"
+        }
+      ]
+    },
+    {
+      "type": "csv",
+      "name": "Cost centres",
+      "slug": "cost-centres",
+      "size": 0.8,
+      "added": "2016-08-12"
+    },
+    {
+      "type": "folder",
+      "name": "Misc",
+      "slug": "misc",
+      "size": 12.3,
+      "added": "2015-04-24",
+      "files": [
+        {
+          "type": "doc",
+          "name": "Christmas party",
+          "slug": "christmas-party",
+          "size": 3.3,
+          "added": "2017-12-01"
+        },
+        {
+          "type": "mov",
+          "name": "Welcome to the company!",
+          "slug": "welcome-to-the-company",
+          "size": 9.0,
+          "added": "2015-04-24"
+        }
+      ]
+    }
+  ]
+}
